@@ -1,6 +1,5 @@
 # Karthikeyan Rathinam 👋 ![Profile Views](https://komarev.com/ghpvc/?username=karthikeyanrathinam&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=karthikeyanrathinam&count_private=true&show_icons=true&theme=github_dark)
  
 ### Hi there 👋
 
@@ -54,7 +53,5 @@ GPA: 8.3 🎖️
 - Python for Data Science & Badge - IBM 🧠
 
 ## Contact ☎️
-
-- 📧 karthikeyanr1801@gmail.com
-- 📱 [Phone](tel:+918428497933)
+- [Medium](https://karthikeyanrathinam.medium.com/about)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/karthikeyanrathinam/)
